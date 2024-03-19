@@ -1,10 +1,8 @@
 # <p align="center">Hello! I'm Rindy & I am a Full-Stack Developer.👋</p>
-<hr>
+
 <p align="center">
 I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in November of 2023. I currently am doing self study, but I am planning to enroll into a college program to study AI & Cybersecurities sometime this year in 2024. I have my BA in Art Studio with an Emphasis in Photography & look forward to adding a few quills to my quiver with a BS & MS.
 </p>
-
-<hr>
 
 ## <p align="center">🧰 Languages and Tools</p>
 
@@ -38,7 +36,4 @@ I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Doj
   <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" />
   <img align="center" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
   <img align="center" alt="Rest API" width="50px" style="padding-right:10px;" src="https://uxwing.com/rest-api-icon/" title="Rest API" />
-
 </div>
-<hr>
-
