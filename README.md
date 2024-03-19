@@ -38,8 +38,8 @@ I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Doj
   <img align="center" alt="Rest API" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="Rest API" />
 </div>
 
-## <p align="center">:handshake: Let's connect!</p>
 
+## <p align="center">:handshake: Let's connect!</p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/rindy-fisk/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
