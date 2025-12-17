@@ -9,6 +9,7 @@ I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Doj
 <div align="center">
   
   <img align="center" alt="VSCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" />
+  <img align="center" alt="Android Studio" width="50px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Android_Studio_icon_(2023).svg" title="Android Studio" />
   <img align="center" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" />
   <img align="center" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" />
   <img align="center" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
