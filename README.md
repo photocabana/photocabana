@@ -2,6 +2,7 @@
 
 <p align="center">
 I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp in November 2023, earning a certificate in Full Stack Development. Currently, I am focused on self-study, with a particular emphasis on preparing for the Security+ certification as I work toward transitioning into the field of Cybersecurity. Additionally, I hold a Bachelor of Arts in Art Studio, with an emphasis in Photography, and I am eager to further enhance my expertise by pursuing additional certifications.
+
 I am a passionate individual with a unique blend of artistic creativity and technical expertise. As a volunteer at a local Robotics Club, I assist students in learning to code, troubleshoot, and develop innovative problem-solving skills. I am dedicated to fostering creativity and critical thinking, helping students approach challenges with a fresh perspective.
 </p>
 
