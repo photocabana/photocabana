@@ -1,7 +1,7 @@
 # <p align="center">Hello! I'm Rindy & I am a Full-Stack Developer.👋</p>
 
 <p align="center">
-I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in November of 2023. I currently am doing self study, but I am planning to enroll into a college program to study AI & Cybersecurities sometime this year in 2024. I have my BA in Art Studio with an Emphasis in Photography & look forward to adding a few quills to my quiver with a BS & MS.
+I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp in November 2023, earning a certificate in Full Stack Development. Currently, I am focused on self-study, with a particular emphasis on preparing for the Security+ certification as I work toward transitioning into the field of Cybersecurity. Additionally, I hold a Bachelor of Arts in Art Studio, with an emphasis in Photography, and I am eager to further enhance my expertise by pursuing additional certifications.
 </p>
 
 ## <p align="center">🧰 Languages and Tools</p>
